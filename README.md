@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tonynguyen311
-- 👀 I’m interested in Python, R, Data Science, Visualization ...
-- 🌱 I’m currently learning Python, R, SQL
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Tony Nguyen
+- 👀 I’m interested in Python, Data Engineering, Visualization and Machine Learning
+- 🌱 I’m currently learning Python, SQL
+- 💞️ I’m looking to collaborate on Data Analyst Projects
 - 📫 How to reach me work.tonynguyen@gmail.com
 
 <!---
